@@ -2,9 +2,9 @@
   "meta": {
     "username": "petrkomzolov",
     "repositoryName": "petrkomzolov.github.io",
-    "branch": "gh-pages"
+    "branch": "master"
   },
   "theme": {
-    "name": "Ghostium"
+    "name": "Casper"
   }
 }
