@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://PetrKomzolov.github.io",
+    "hubpress": "https://petrkomzolov.github.io",
+    "theme": "//PetrKomzolov.github.io/themes/casper",
+    "images": "https://PetrKomzolov.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
